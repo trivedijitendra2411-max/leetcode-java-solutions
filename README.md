@@ -1,2 +1,30 @@
-# vishal-s-repositery
-this repositery all about my tech carrer how i begin how it's going and how i learned things and keep focus on future of my tech carrer 
+# Vishal's Tech Journey 🚀
+
+Welcome to my GitHub repository!
+
+I am a Computer Engineering student passionate about Software Development and Data Structures & Algorithms.
+
+This repository documents my learning journey, including:
+
+- 📚 Data Structures & Algorithms (Java)
+- 💻 LeetCode solutions
+- ☕ Java practice programs
+- 🚀 Personal projects
+- 📖 Continuous learning and problem-solving
+
+## Goals
+
+- Strengthen problem-solving skills
+- Build real-world software projects
+- Maintain consistency in coding
+- Prepare for Software Engineering internships
+
+## Tech Stack
+
+- Java
+- Git & GitHub
+- Data Structures & Algorithms
+
+---
+
+⭐ Thank you for visiting my repository!
